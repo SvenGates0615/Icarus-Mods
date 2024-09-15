@@ -1,6 +1,6 @@
 # SG Icarus-Mods
 Compatible with Icarus Version: Rev. 2.2.20.127215 (Week: 145)
-__________________________________________________________________________________________
+
 My collection of mods for Icarus is now available to you:
 
 All modifications are my own creation and editing, (unless it states in the README.md files.
@@ -11,7 +11,7 @@ WE RECOMMEND YOU: Download the [Icarus Mod Manager by Jim72](https://github.com/
 To download the latest version of mod, .PAK file.
 
 Click on "Latest" Release button to the right of this page.  
-___________________________________________________________________________________________
+
 ### Mod List and Information:
 
 ### SG-Higher-Capacity-Fillables_P.pak
