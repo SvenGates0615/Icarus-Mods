@@ -21,6 +21,8 @@ Click on "Latest" Release button to the right of this page.
 - Includes the increased Capacity of ALL batteries
 - For more infomation Check out the [Readme](SG-Higher-Capacity-Fillables_README.md) for all the details.
 
+## Upcoming mods (avilable soon)
+
 ### SG-Slow-Down-Food-Decay-Times
 
 - Reduces the rate at which food spoils.
