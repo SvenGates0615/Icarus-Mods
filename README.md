@@ -13,4 +13,7 @@ All modifications are my own creation and editing, (unless it states in the READ
 
 ### SG-Slow-Down-Food-Decay-Times
 
+- Reduces the rate at which food spoils.
+- Food lasts longer.
+
 -----------------------------------------------------------------------------------------
