@@ -11,3 +11,6 @@ This has changes how much a filable Item can hold.
 ### Items Changed:
 
 - Sponge
+- WaterSkin
+- Canteen
+- All Water Barrels
