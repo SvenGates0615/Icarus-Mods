@@ -19,7 +19,7 @@ ________________________________________________________________________________
 - This has changed how much a filable Item can hold.
 - Mainly all filables have been ajusted to increase the capacity.
 - Includes the increased Capacity of ALL batteries
-- For more infomation Check out the [Readme](SG-Higher-Capacity-Fillables_README.mg) for all the details.
+- For more infomation Check out the [Readme](SG-Higher-Capacity-Fillables_README.md) for all the details.
 
 ### SG-Slow-Down-Food-Decay-Times
 
