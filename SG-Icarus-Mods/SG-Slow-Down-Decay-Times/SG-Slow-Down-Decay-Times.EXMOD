@@ -1,0 +1,105 @@
+{
+    "name": "SG-Slow-Down-Decay-Times",
+    "author": "SvenGates",
+    "version": "1.0",
+    "week": "145",
+    "fileName": "SG-Slow-Down-Decay-Times",
+    "imageURL": "https://github.com/SvenGates0615/Icarus-Mods.wiki.git",
+    "readmeURL": "",
+    "description": "Slows down the decay Times to food, making it last longer before it Spoils",
+    "Level2": "True",
+    "Rows": [
+        {
+         "CurrentFile": "Traits-D_Decayable.json",
+         "File_Items": [
+		        {
+                    "Name": "Decay_Raw_Meat",
+                    "DecayTime": 700,
+					"SpoilTime": 1500
+                },
+				{
+                    "Name": "Decay_CookedMeat_Generic",
+                    "DecayTime": 700,
+					"SpoilTime": 2000
+                },
+				{
+                    "Name": "Decay_Fruit_Vegetable",
+                    "DecayTime": 700,
+					"SpoilTime": 1900
+                },
+				{
+                    "Name": "Decay_Bread_Generic",
+                    "DecayTime": 700,
+					"SpoilTime": 1900
+                },
+				{
+                    "Name": "Decay_Food_Generic",
+                    "DecayTime": 700,
+					"SpoilTime": 2000
+                },
+				{
+                    "Name": "Decay_Ice",
+                    "DecayTime": 900,
+					"SpoilTime": 3000
+                },
+				{
+                    "Name": "Decay_Coconut_Young",
+                    "DecayTime": 700,
+					"SpoilTime": 1500
+                },
+				{
+                    "Name": "Decay_Coconut_Mid",
+                    "DecayTime": 700,
+					"SpoilTime": 1500
+                },
+				{
+                    "Name": "Decay_Coconut_Mature",
+                    "DecayTime": 700,
+					"SpoilTime": 1500
+                },
+				{
+                    "Name": "Decay_Dried_Meat",
+                    "DecayTime": 900,
+					"SpoilTime": 6000
+                },
+				{
+                    "Name": "Decay_Smoked_Meat",
+                    "DecayTime": 900,
+					"SpoilTime": 7000
+                },
+				{
+                    "Name": "Decay_Raw_Chicken",
+                    "DecayTime": 600,
+					"SpoilTime": 1500
+                },
+				{
+                    "Name": "Decay_Food_SweetPie",
+                    "DecayTime": 700,
+					"SpoilTime": 4600
+                },
+				{
+                    "Name": "Decay_Candy",
+                    "DecayTime": 700
+                },
+				{
+                    "Name": "Decay_Cookie",
+                    "DecayTime": 700,
+					"SpoilTime": 4600
+                },
+				{
+                    "Name": "Decay_Frozen_Food",
+                    "DecayTime": 700,
+					"SpoilTime": 2100
+                },
+				{
+                    "Name": "Decay_Bait",
+                    "DecayTime": 700,
+					"SpoilTime": 4600
+                }
+		    ]
+        },
+        {
+            "CurrentFile": "EndOfMod"
+        }
+    ]
+}

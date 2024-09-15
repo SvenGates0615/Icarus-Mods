@@ -1,0 +1,185 @@
+{
+    "name": "SG-Higher-Fillable-Volumes",
+    "author": "SvenGates",
+    "version": "1.0",
+    "week": "",
+    "fileName": "SG-Higher-Fillable-Volumes",
+    "imageURL": "https://github.com/SvenGates0615/Icarus-Mods.wiki.git",
+    "readmeURL": "",
+    "description": "Highers the Fillable Volumes to filable items",
+    "Level2": "True",
+    "Rows": [
+        {
+            "CurrentFile": "Traits-D_Fillable.json",
+            "File_Items": [
+                {
+                    "Name": "Sponge",
+                    "MaximumStoredUnits": 1000
+                },
+                {
+                    "Name": "WaterSkin",
+                    "MaximumStoredUnits": 2000
+                },
+                {
+                    "Name": "Canteen",
+                    "MaximumStoredUnits": 6000
+                },
+                {
+                    "Name": "Canteen_Shengong",
+                    "MaximumStoredUnits": 7500
+                },
+                {
+                    "Name": "WaterBarrel",
+                    "MaximumStoredUnits": 30000
+                },
+                {
+                    "Name": "Thermos",
+                    "MaximumStoredUnits": 6000
+                },
+                {
+                    "Name": "OxygenBladder",
+                    "MaximumStoredUnits": 2000
+                },
+                {
+                    "Name": "OxygenTank",
+                    "MaximumStoredUnits": 6000
+                },
+                {
+                    "Name": "Oxygen_Tank_Shengong",
+                    "MaximumStoredUnits": 7500
+                },
+                {
+                    "Name": "Battery",
+                    "MaximumStoredUnits": 1200
+                },
+                {
+                    "Name": "Jerrycan",
+                    "MaximumStoredUnits": 1200
+                },
+                {
+                    "Name": "Lantern",
+                    "MaximumStoredUnits": 2000
+                },
+                {
+                    "Name": "Biofuel_Lamp",
+                    "MaximumStoredUnits": 3000
+                },
+                {
+                    "Name": "Rain_Reservoir",
+                    "MaximumStoredUnits": 12000
+                },
+                {
+                    "Name": "Meta_Biofuel_Can",
+                    "MaximumStoredUnits": 13000
+                },
+                {
+                    "Name": "Meta_Power_Source",
+                    "MaximumStoredUnits": 50000
+                },
+                {
+                    "Name": "Water_Trough",
+                    "MaximumStoredUnits": 20000
+                },
+                {
+                    "Name": "Water_Trough_T4",
+                    "MaximumStoredUnits": 30000
+                },
+                {
+                    "Name": "Watering_Can",
+                    "MaximumStoredUnits": 6000
+                },
+                {
+                    "Name": "Water_Purifier",
+                    "MaximumStoredUnits": 6000
+                },
+                {
+                    "Name": "Battery_T3",
+                    "MaximumStoredUnits": 35000
+                },
+                {
+                    "Name": "Battery_Shelf_T3",
+                    "MaximumStoredUnits": 2000000
+                },
+                {
+                    "Name": "Battery_T4",
+                    "MaximumStoredUnits": 3500000
+                },
+                {
+                    "Name": "Battery_Shelf_T4",
+                    "MaximumStoredUnits": 7000000
+                },
+                {
+                    "Name": "BatteryTest",
+                    "MaximumStoredUnits": 7000000
+                },
+                {
+                    "Name": "Water_Barrel",
+                    "MaximumStoredUnits": 400000
+                },
+                {
+                    "Name": "Rain_Reservoir_T3",
+                    "MaximumStoredUnits": 200000
+                },
+                {
+                    "Name": "Water_Purifier_T2",
+                    "MaximumStoredUnits": 12000
+                },
+                {
+                    "Name": "Flashlight",
+                    "MaximumStoredUnits": 7500
+                },
+                {
+                    "Name": "Icebox_Backpack",
+                    "MaximumStoredUnits": 12800
+                },
+                {
+                    "Name": "Lava_Hunter_Backpack",
+                    "MaximumStoredUnits": 12800
+                },
+                {
+                    "Name": "Oil_Barrel",
+                    "MaximumStoredUnits": 12000
+                },
+                {
+                    "Name": "Battery_Lamp",
+                    "MaximumStoredUnits": 7500
+                },
+				{
+                    "Name": "Workshop_Hydrazine_Container",
+                    "MaximumStoredUnits": 15000
+                },
+				{
+                    "Name": "Bucket",
+                    "MaximumStoredUnits": 15000
+                },
+				{
+                    "Name": "CaveLight",
+                    "MaximumStoredUnits": 15000
+                },
+				{
+                    "Name": "Jerry_Can_Water",
+                    "MaximumStoredUnits": 60000
+                },
+				{
+                    "Name": "Portable_Tank_Water",
+                    "MaximumStoredUnits": 180000
+                },
+				{
+                    "Name": "Portable_Tank_Biofuel",
+                    "MaximumStoredUnits": 180000
+                },
+				{
+                    "Name": "Truck_Water",
+                    "MaximumStoredUnits": 210000
+                },
+				{
+                    "Name": "Truck_Fuel",
+                    "MaximumStoredUnits": 220000
+                }
+            ]
+        },
+        {
+            "CurrentFile": "EndOfMod"
+        }
+    ]
+}
