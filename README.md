@@ -17,7 +17,9 @@ ________________________________________________________________________________
 ### SG-Higher-Capacity-Fillables_P.pak
 
 - This has changed how much a filable Item can hold.
-- Mainly all filables have been ajusted to increase the capasity.
+- Mainly all filables have been ajusted to increase the capacity.
+- Includes the increased Capacity of ALL batteries
+- For more infomation Check out the [Readme](https://github.com/laanp/Icarus_Mods_Separated/blob/main/laanp-Combined_QOL_Readme.md) for all the details.
 
 ### SG-Slow-Down-Food-Decay-Times
 
