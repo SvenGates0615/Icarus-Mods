@@ -15,5 +15,5 @@ All modifications are my own creation and editing, (unless it states in the READ
 
 - Reduces the rate at which food spoils.
 - Food lasts longer.
-
+- Covers Raw, Cooked, Fruit and Vegetables. 
 -----------------------------------------------------------------------------------------
