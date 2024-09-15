@@ -8,6 +8,9 @@ All modifications are my own creation and editing, (unless it states in the READ
 
 ### SG-Higher-Capacity-Fillables
 
-- This has changed how much a filable Item can hold
-- Mainly all filables have been ajusted to increase the capasity 
+- This has changed how much a filable Item can hold.
+- Mainly all filables have been ajusted to increase the capasity.
+
+### SG-Slow-Down-Food-Decay-Times
+
 -----------------------------------------------------------------------------------------
