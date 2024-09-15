@@ -4,6 +4,14 @@ ________________________________________________________________________________
 My collection of mods for Icarus is now available to you:
 
 All modifications are my own creation and editing, (unless it states in the README.md files.
+
+WE RECOMMEND YOU: Download the [Icarus Mod Manager by Jim72](https://github.com/Jimk72/Icarus_Software). Installing, removing, merging, and updating any mods you use is easy and convenient with this!
+
+## Download
+To download the latest version of mod, .PAK file.
+
+Click on "Latest" Release button to the right of this page.  
+___________________________________________________________________________________________
 ### Mod List and Information:
 
 ### SG-Higher-Capacity-Fillables_P.pak
@@ -16,4 +24,3 @@ All modifications are my own creation and editing, (unless it states in the READ
 - Reduces the rate at which food spoils.
 - Food lasts longer.
 - Covers Raw, Cooked, Fruit and Vegetables. 
------------------------------------------------------------------------------------------
