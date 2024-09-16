@@ -64,6 +64,6 @@ SO PLEASE:
 - PLEASE, Feel free to drop me any ideas for mod changes/suggestions.
 
    ## Contact Me
-- Email: SvenGates1@gmail.com
+- [Email](svengates1@gmail.com)
 - [Discord](https://discord.gg/PCBgcGg4sP)
   
