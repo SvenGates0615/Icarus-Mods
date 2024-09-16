@@ -65,5 +65,5 @@ SO PLEASE:
 
    ## Contact Me
 - Email: SvenGates1@gmail.com
-- [Discord]{https://discord.gg/PCBgcGg4sP}
+- [Discord](https://discord.gg/PCBgcGg4sP)
   
