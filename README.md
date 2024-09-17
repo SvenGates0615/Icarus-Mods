@@ -20,6 +20,7 @@ Click on "Latest" Release button to the right of this page.
 - Mainly all filables have been ajusted to increase the capacity.
 - Includes the increased Capacity of ALL batteries
 - For more infomation Check out the [Readme](.EMODZ_Files_Downloads/SG-Higher-Capacity-Fillables/SG-Higher-Capacity-Fillables_README.md) for all the details.
+- To download the latest version of EXMODZ file, [Click Here](.EMODZ_Files_Downloads/SG-Higher-Capacity-Fillables/SG-Higher-Capacity-Fillables.EXMODP)
 
 ## Upcoming mods (avilable soon)
 
