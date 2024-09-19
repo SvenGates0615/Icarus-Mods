@@ -19,7 +19,8 @@ Click on "Latest" Release button to the right of this page.
 - This has changed how much a filable Item can hold.
 - Mainly all filables have been ajusted to increase the capacity.
 - Includes the increased Capacity of ALL batteries
-- For more infomation Check out the [Readme](SG-Higher-Capacity-Fillables_README.md) for all the details.
+- For more infomation Check out the [Readme](.EMODZ_Files_Downloads/SG-Higher-Capacity-Fillables/SG-Higher-Capacity-Fillables_README.md) for all the details.
+- To download the latest version of EXMODZ file, [Click Here](.EMODZ_Files_Downloads/SG-Higher-Capacity-Fillables/SG-Higher-Capacity-Fillables.EXMOD)
 
 ## Upcoming mods (avilable soon)
 
@@ -29,4 +30,7 @@ Click on "Latest" Release button to the right of this page.
 - Food lasts longer.
 - Covers Raw, Cooked, Fruit and Vegetables. 
 
-### SG-No-damage-Stations
+### SG-No-Damage-Stations
+
+
+### SG-Longer-Days
