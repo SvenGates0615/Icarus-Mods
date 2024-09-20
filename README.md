@@ -21,6 +21,8 @@ Click on "Latest" Release button to the right of this page.
 - Includes the increased Capacity of ALL batteries
 - For more infomation Check out the [Readme](.EMODZ_Files_Downloads/SG-Higher-Capacity-Fillables/SG-Higher-Capacity-Fillables_README.md) for all the details.
 - To download the latest version of EXMODZ file, [Click Here](.EMODZ_Files_Downloads/SG-Higher-Capacity-Fillables/SG-Higher-Capacity-Fillables.EXMOD)
+- UPCOMING UPDATE:
+  Working with, Jimk72 "Prefilled Items"
 
 ## Upcoming mods (avilable soon)
 
