@@ -27,7 +27,8 @@ Click on "Latest" Release button to the right of this page.
  ### SG-Longer-Days
 - Shorter nights.
 - Complete darkness at 9pm.
-- To download the latest version of EXMODZ file, [Click Here](.EMODZ_Files_Downloads/SG-Higher-Capacity-Fillables/SG-Higher-Capacity-Fillables.EXMOD)
+- To download the latest version of EXMODZ file, [Click Here](https://github.com/SvenGates0615/Icarus-Mods/tree/main/.EMODZ_Files_Downloads/SG-Longer-Days/SG-Longer_Days-EXMODZ-File)
+- For more infomation Check out the [Readme](.EMODZ_Files_Downloads/SG-Higher-Capacity-Fillables/SG-Higher-Capacity-Fillables_README.md) for all the details.
 
 ## Upcoming mods (avilable soon)
 
