@@ -1,49 +1,19 @@
-## SG-Higher-Capacity-Fillables_P.pak
+## SG-Longer-Days_P.pak
 
 Mod Version: 1
 
-Compatible with Icarus Version:(Week: 146)
+Compatible with Icarus Version: (Week: 146)
 
 ## Description:
 
-This has changes how much a filable Item can hold.
+Changes the length of day.
 
 ### Items Changed:
 
-- Sponge
-- WaterSkin
-- Canteen
-- All Water Barrels
-- Thermos
-- Oxygen Bladder
-- Oxygen Tank
-- Jerrycan
-- Lantern
-- Water Troughs
-- Biofuel Cans
-- Biofuel_Lamp
-- Water Purifiers
-- Rain Reservoirs
-- Flashlight
-- Icebox Backpack
-- Lava Hunter Backpack
-- Oil Barrel
-- Bucket
-- Cave Light
-- Portable Tank Water
-- Portable Tank Biofuel
-- Truck Water
-- Truck Fuel
-
-  ### Also Includes:
-
-- ALL Batteries and Battery Shelves
-- Workshop Hydrazine Container
-
-All of the above have been increased in storage volume and are balanced.
-
-These items are still not overflowing even though I have increased the capacity. 
-while still providing you with the challenge of playing the game.
+- Shorter nights.
+- Longer days.
+- Sunrise 6am.
+- Sunset 8pm.
 
 ## Disclaimer
 
