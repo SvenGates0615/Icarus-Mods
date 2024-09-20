@@ -22,7 +22,12 @@ Click on "Latest" Release button to the right of this page.
 - For more infomation Check out the [Readme](.EMODZ_Files_Downloads/SG-Higher-Capacity-Fillables/SG-Higher-Capacity-Fillables_README.md) for all the details.
 - To download the latest version of EXMODZ file, [Click Here](.EMODZ_Files_Downloads/SG-Higher-Capacity-Fillables/SG-Higher-Capacity-Fillables.EXMOD)
 - UPCOMING UPDATE:
-  Working with, Jimk72 "Prefilled Items"
+  Working with, [Jimk72](https://github.com/Jimk72) "Prefilled Items"
+
+ ### SG-Longer-Days
+- Shorter nights.
+- Complete darkness at 9pm.
+- To download the latest version of EXMODZ file, [Click Here](.EMODZ_Files_Downloads/SG-Higher-Capacity-Fillables/SG-Higher-Capacity-Fillables.EXMOD)
 
 ## Upcoming mods (avilable soon)
 
@@ -32,7 +37,3 @@ Click on "Latest" Release button to the right of this page.
 - Food lasts longer.
 - Covers Raw, Cooked, Fruit and Vegetables. 
 
-### SG-No-Damage-Stations
-
-
-### SG-Longer-Days
