@@ -34,8 +34,8 @@ Click on "Latest" Release button to the right of this page.
 - Use charcoal as a burnable fuel in campfires.
 - Use it in torches as a burnable fuel.
 - Use wood in any furnace to get charcoal.
-- To download the latest version of EXMODZ file,
-- For more infomation Check out the [Readme](.EMODZ_Files_Downloads/SG-BurnableCharcoal/SG-BurnableCharcoal_P_README.md)
+- To download the latest version of EXMODZ file, [Click Here](.EMODZ_Files_Downloads/SG-BurnableCharcoal/SG-Burnablecharcoal-EXMODZ-File)
+- For more infomation Check out the [Readme](.EMODZ_Files_Downloads/SG-BurnableCharcoal/SG-BurnableCharcoal_P_README.md) for all the details.
 
   
 # Upcoming mods, listed below. (avilable soon)
