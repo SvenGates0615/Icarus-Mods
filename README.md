@@ -35,7 +35,7 @@ Click on "Latest" Release button to the right of this page.
 - Use it in torches as a burnable fuel.
 - Use wood in any furnace to get charcoal.
 - To download the latest version of EXMODZ file,
-- For more infomation Check out the
+- For more infomation Check out the [Readme](.EMODZ_Files_Downloads/SG-BurnableCharcoal/SG-BurnableCharcoal_P_README.md)
 
   
 # Upcoming mods, listed below. (avilable soon)
