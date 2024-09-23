@@ -1,5 +1,5 @@
 # SG Icarus-Mods
-Compatible with Icarus Version: Rev. 2.2.20.127215 (Week: 145)
+Compatible with Icarus Version:(Week: 145)
 
 My collection of mods for Icarus is now available to you:
 
@@ -28,13 +28,20 @@ Click on "Latest" Release button to the right of this page.
 - Shorter nights.
 - Complete darkness at 9pm.
 - To download the latest version of EXMODZ file, [Click Here](https://github.com/SvenGates0615/Icarus-Mods/tree/main/.EMODZ_Files_Downloads/SG-Longer-Days/SG-Longer_Days-EXMODZ-File)
-- For more infomation Check out the [Readme](.EMODZ_Files_Downloads/SG-Higher-Capacity-Fillables/SG-Higher-Capacity-Fillables_README.md) for all the details.
+- For more infomation Check out the [Readme](.EMODZ_Files_Downloads/SG-Longer-Days/SG-Longer-Days_P_README.md) for all the details.
 
-## Upcoming mods (avilable soon)
+### SG-BurnableCharcoal
+- Use charcoal as a burnable fuel in campfires.
+- Use it in torches as a burnable fuel.
+- Use wood in any furnace to get charcoal.
+- To download the latest version of EXMODZ file,
+- For more infomation Check out the
+
+  
+# Upcoming mods, listed below. (avilable soon)
 
 ### SG-Slow-Down-Food-Decay-Times
 
 - Reduces the rate at which food spoils.
 - Food lasts longer.
 - Covers Raw, Cooked, Fruit and Vegetables. 
-

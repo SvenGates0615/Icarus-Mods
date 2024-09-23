@@ -2,7 +2,11 @@
 
 Mod Version: 1
 
+<<<<<<< HEAD
 Compatible with Icarus Version:(Week: 146)
+=======
+Compatible with Icarus Version: (Week: 146)
+>>>>>>> 1fc3e02859ff2c925d745d41d5cb15e0ca57a2df
 
 ## Description:
 
