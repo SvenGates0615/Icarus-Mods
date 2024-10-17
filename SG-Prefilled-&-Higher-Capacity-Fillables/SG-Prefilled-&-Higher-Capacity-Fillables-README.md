@@ -18,7 +18,7 @@ SG-Prefilled & Higher Capacity Fillables is a mod that enhances your survival ex
 ## Installation
 
 1. Ensure you have the base game installed.
-2. Download the latest release of the mod from the [Releases](https://github.com/SvenGates0615/SG-Prefilled-Higher-Capacity-Fillables/releases) page.
+2. Download the latest release of the mod from the [Releases](https://github.com/SvenGates0615/Icarus-Mods/releases) page.
 3. Extract the contents of the zip file into your game's mod folder.
 4. Launch the game and enjoy your enhanced containers!
 5. Alternatively, you can directly download the latest version [here](https://github.com/SvenGates0615/Icarus-Mods/raw/main/SG-Prefilled-&-Higher-Capacity-Fillables/SG-Prefilled%20%26%20Higher%20Capacity%20Fillables.EXMODZ).
