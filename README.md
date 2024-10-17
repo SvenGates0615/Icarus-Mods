@@ -19,7 +19,7 @@ Click on "Latest" Release button to the right of this page.
 1. **SG-Prefilled & Higher Capacity Fillables**
    - Description: Enhances your survival experience by increasing the capacity of various liquid and gas containers while also ensuring they come pre-filled upon crafting. From water skins to oxygen tanks, and from batteries to fuel cans, this mod makes resource management more convenient and rewarding.
    - Version: 1.0
-   - [More Information](./SG-Prefilled%20&%20Higher%20Capacity%20Fillables/README.md)
+   - [More Information](SG-Prefilled-and-Higher-Capacity-Fillables/SG-Prefilled-and-Higher-Capacity-Fillables-README.md)
 
 [Add your other mods here, following the same format]
 
