@@ -29,7 +29,7 @@ This mod is compatible with game version 0.9.1. It may work with other versions,
 
 ## Known Issues
 
-Currently, there are no known issues. If you encounter any problems, please report them in the [Issues](https://github.com/SvenGates0615/SG-Prefilled-Higher-Capacity-Fillables/issues) section of this repository.
+Currently, there are no known issues. If you encounter any problems, please report them in the [Issues](https://github.com/SvenGates0615/Icarus-Mods/issues)) section of this repository.
 
 ## Contributing
 
