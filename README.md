@@ -1,6 +1,5 @@
 # SG Icarus-Mods
 
-Compatible with Icarus Version: (Week: 148)
 Compatible with Icarus Version: (Week: 150)
 
 My collection of mods for Icarus is now available to you:
@@ -43,7 +42,7 @@ Click on "Latest" Release button to the right of this page.
 
 ## Compatibility
 
-These mods are compatible with Icarus version (Week: 148). They may work with other versions, but this has not been extensively tested.
+
 These mods are compatible with Icarus version (Week: 150). They may work with other versions, but this has not been extensively tested.
 
 ## Known Issues
