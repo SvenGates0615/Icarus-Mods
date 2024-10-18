@@ -24,7 +24,7 @@ Click on "Latest" Release button to the right of this page.
 2. **SG-Cheaper Crafting Tier 4 Items**
    - Description: This modification reduces the input requirements for crafting Tier 4 Items by 25%.
    - Version: 1.0
-   - [More Information](/SG-Cheaper-Crafting-Tier-4-Items/README.md)
+   - [More Information](https://github.com/SvenGates0615/Icarus-Mods/blob/main/SG-Cheaper-Crafting-Tier-4-Items/SG-Cheaper-Crafting-Tier-4-Items-README.md)
 
 3. **SG-Longer Days**
    - Description: Extends the duration of in-game days in Icarus, providing more daylight hours for exploration, resource gathering, and base building.
