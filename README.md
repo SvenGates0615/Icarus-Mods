@@ -1,6 +1,7 @@
 # SG Icarus-Mods
 
 Compatible with Icarus Version: (Week: 148)
+Compatible with Icarus Version: (Week: 150)
 
 My collection of mods for Icarus is now available to you:
 
@@ -26,6 +27,11 @@ Click on "Latest" Release button to the right of this page.
    - Version: 1.0
    - [More Information](/SG-Cheaper-Crafting-Tier-4-Items/README.md)
 
+3. **SG-Longer Days**
+   - Description: Extends the duration of in-game days in Icarus, providing more daylight hours for exploration, resource gathering, and base building.
+   - Version: 1.0
+   - [More Information](/SG-Longer-Days/README.md)
+
 [Add your other mods here, following the same format]
 
 ## Installation
@@ -38,6 +44,7 @@ Click on "Latest" Release button to the right of this page.
 ## Compatibility
 
 These mods are compatible with Icarus version (Week: 148). They may work with other versions, but this has not been extensively tested.
+These mods are compatible with Icarus version (Week: 150). They may work with other versions, but this has not been extensively tested.
 
 ## Known Issues
 
