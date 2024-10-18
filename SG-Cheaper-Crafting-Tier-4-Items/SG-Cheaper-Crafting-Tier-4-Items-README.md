@@ -24,7 +24,7 @@ This mod is compatible with Icarus Week 149. It may work with other versions, bu
 
 ## Known Issues
 
-Currently, there are no known issues. If you encounter any problems, please report them in the [Issues](https://github.com/SvenGates/Icarus-Mods/SG-Cheaper-Crafting-Tier-4-Items/issues) section of this repository.
+Currently, there are no known issues. If you encounter any problems, please report them in the [Issues](https://github.com/SvenGates0615/Icarus-Mods/blob/main/.github/ISSUE_TEMPLATE/sg-cheaper-crafting-tier-4-items-issue.yml) section of this repository.
 
 ## Contributing
 
