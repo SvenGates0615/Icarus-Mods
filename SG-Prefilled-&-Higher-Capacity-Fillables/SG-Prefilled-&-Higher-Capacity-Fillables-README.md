@@ -4,6 +4,8 @@
 
 SG-Prefilled & Higher Capacity Fillables is a mod that enhances your survival experience by increasing the capacity of various liquid and gas containers while also ensuring they come pre-filled upon crafting. From water skins to oxygen tanks, and from batteries to fuel cans, this mod makes resource management more convenient and rewarding.
 
+Includes [Jim72](https://github.com/Jimk72/Icarus_Mods) Prefilled Items mod, So a BIG Shout out to him on the amazing work that he does on Icarus mods and the Mod Manager.
+
 ## Features
 
 - Increases the capacity of various containers (water, oxygen, fuel, etc.)
@@ -44,7 +46,7 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 Created by SvnGates
 
 ## Acknowledgments
-
+- Special thanks to Jim72 
 - Thanks to the game developers for creating such a moddable game.
 - Shout out to the modding community for their continuous support and inspiration.
 
