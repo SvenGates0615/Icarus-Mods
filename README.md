@@ -29,9 +29,8 @@ Click on "Latest" Release button to the right of this page.
 3. **SG-Longer Days**
    - Description: Extends the duration of in-game days in Icarus, providing more daylight hours for exploration, resource gathering, and base building.
    - Version: 1.0
-   - [More Information](/SG-Longer-Days/README.md)
+   - [More Information](https://github.com/SvenGates0615/Icarus-Mods/blob/main/SG-Longer-Days/SG-Longer-Days.md)
 
-[Add your other mods here, following the same format]
 
 ## Installation
 
