@@ -35,7 +35,7 @@ This mod is compatible with Icarus Week 150. It may work with other versions, bu
 
 ## Known Issues
 
-Currently, there are no known issues. If you encounter any problems, please report them in the [Issues](https://github.com/SvenGates/Icarus-Mods/SG-Longer-Days/issues) section of this repository.
+Currently, there are no known issues. If you encounter any problems, please report them in the [Issues](https://github.com/SvenGates0615/Icarus-Mods/issues) section of this repository.
 
 ## Contributing
 
