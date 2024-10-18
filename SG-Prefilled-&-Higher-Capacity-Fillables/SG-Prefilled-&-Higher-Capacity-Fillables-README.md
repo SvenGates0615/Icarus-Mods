@@ -37,7 +37,7 @@ Contributions are welcome! If you'd like to improve this mod, feel free to fork 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/SvenGates0615/Icarus-Mods/blob/main/License) file for details.
 
 ## Author
 
