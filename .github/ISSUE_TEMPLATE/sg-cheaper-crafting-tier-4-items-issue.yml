@@ -1,7 +1,7 @@
 name: SG-cheaper-crafting-tier-4-items-issue
-description: Report an issue for the SG-Longer Days mod
-title: "[SG-cheaper-crafting-tier-4-items-issue]: "
-labels: ["SG-cheaper-crafting-tier-4-items-issue"]
+description: Report an issue for the SG cheaper crafting tier 4 items mod
+title: "[SG cheaper crafting tier 4 items]: "
+labels: [SG cheaper crafting tier 4 items"]
 body:
   - type: markdown
     attributes:
